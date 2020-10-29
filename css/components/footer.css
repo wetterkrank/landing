@@ -1,0 +1,21 @@
+.footer {
+    width: 100%;
+    background-color: #687696;
+    padding: 20px 0;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.footer .links {
+    width: 800px;
+    margin: auto;
+}
+
+.footer a {
+    font-size: 30px;
+    color: #FFBE33;
+}
+
+.footer .fas {
+    color: #FFBE33;
+}
